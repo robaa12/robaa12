@@ -6,7 +6,7 @@
 
 ###
 
-<h6 align="left">- Learning Full Stack Development.</h6>
+<h5 align="left">- Learning Full Stack Development.</h5>
 
 ###
 
