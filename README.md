@@ -73,6 +73,6 @@
 
 <br clear="both">
 
-![snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/robaa12/robaa12/blob/output/github-contribution-grid-snake2.svg)
 
 ###
