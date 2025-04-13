@@ -11,16 +11,6 @@
 <h2 align="left">🧪 Projects I'm Working On:</h2>
 
 - 🛒 **Motager** – A Shopify-inspired e-commerce platform for my graduation project, powered by microservices.
-- 🎬 **EgyEast** – A Java Swing GUI application that helps Middle Eastern users enjoy family-friendly content on their PCs. Built to strengthen my grasp of OOP concepts.
-
-###
-
-<h2 align="left">📘 Courses & Learning Tracks:</h2>
-
-- [x] Microservices in Go: Build Distributed Systems – _By Alex Edwards_
-- [x] Learning Go: An Idiomatic Approach to Real-World Programming
-- [x] Databases: Relational, PostgreSQL + real-life design & performance
-- [ ] Gearing up for **Google Summer of Code (GSoC)** with Keploy – Contract Testing & API schemas
 
 ###
 
